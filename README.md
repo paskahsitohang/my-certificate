@@ -24,8 +24,8 @@ It reflects my ongoing learning journey in **Data Analytics**, **Cloud Computing
 | Year | Certification Name                                  | Provider             |
 |------|-----------------------------------------------------|----------------------|
 | 2025 | Mathematic for Data Science                         | SimpliLearn SkillUP  |
-| 2025 | Time Series Analysis                                | Udemy                |
-| 2024 | Critical Thinking                                   | LinkedIn             |
+| 2023 | Time Series Analysis                                | Udemy                |
+| 2025 | Critical Thinking                                   | LinkedIn             |
 
 ---
 
